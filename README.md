@@ -8,3 +8,5 @@ This project is inbuilt terminal tool to optomize research
 - [ ] To generate a new tree from a linked definition
 - [ ] Create a new buffer in the termial for each tree
 - [ ] Create a new buffer in nvim for each tree
+
+## Implementation with Rich:
