@@ -1,0 +1,1756 @@
+200
+Introduction to quantum mechanics
+
+Wave functions
+electron
+[1]
+Quantum mechanics
+Schrödinger equation
+Introduction
+Glossary
+History
+Classical mechanics
+Old quantum theory
+Bra–ket notation
+Hamiltonian
+Interference
+Complementarity
+Decoherence
+Entanglement
+Energy level
+Measurement
+Nonlocality
+Quantum number
+State
+Superposition
+Symmetry
+Tunnelling
+Uncertainty
+Wave function
+Collapse
+Bell's inequality
+CHSH inequality
+Davisson–Germer
+Double-slit
+Elitzur–Vaidman
+Franck–Hertz
+Leggett inequality
+Leggett–Garg inequality
+Mach–Zehnder
+Popper
+Quantum eraser
+Delayed-choice
+Schrödinger's cat
+Stern–Gerlach
+Wheeler's delayed-choice
+Overview
+Heisenberg
+Interaction
+Matrix
+Phase-space
+Schrödinger
+Sum-over-histories (path integral)
+Dirac
+Klein–Gordon
+Pauli
+Rydberg
+Schrödinger
+Interpretations
+Bayesian
+Consistent histories
+Copenhagen
+de Broglie–Bohm
+Ensemble
+Hidden-variable
+Local
+Superdeterminism
+Many-worlds
+Objective-collapse
+Quantum logic
+Relational
+Transactional
+Von Neumann–Wigner
+Relativistic quantum mechanics
+Quantum field theory
+Quantum information science
+Quantum computing
+Quantum chaos
+EPR paradox
+Density matrix
+Scattering theory
+Quantum statistical mechanics
+Quantum machine learning
+Aharonov
+Bell
+Bethe
+Blackett
+Bloch
+Bohm
+Bohr
+Born
+Bose
+de Broglie
+Compton
+Dirac
+Davisson
+Debye
+Ehrenfest
+Einstein
+Everett
+Fock
+Fermi
+Feynman
+Glauber
+Gutzwiller
+Heisenberg
+Hilbert
+Jordan
+Kramers
+Lamb
+Landau
+Laue
+Moseley
+Millikan
+Onnes
+Pauli
+Planck
+Rabi
+Raman
+Rydberg
+Schrödinger
+Simmons
+Sommerfeld
+von Neumann
+Weyl
+Wien
+Wigner
+Zeeman
+Zeilinger
+v
+t
+e
+theory
+nature
+atoms
+[2]
+quantum chemistry
+quantum field theory
+quantum technology
+quantum information science
+classical physics
+macroscopic
+(optical) microscopic
+submicroscopic
+subatomic
+[3]
+bound
+quantized
+discrete values
+energy
+momentum
+angular momentum
+particles
+waves
+wave–particle duality
+uncertainty principle
+arose gradually
+Max Planck
+black-body radiation
+Albert Einstein
+1905 paper
+photoelectric effect
+old quantum theory
+Niels Bohr
+Erwin Schrödinger
+Werner Heisenberg
+Max Born
+Paul Dirac
+specially developed mathematical formalisms
+wave function
+probability amplitudes
+edit
+[4]
+Wigner's friend
+[5]
+accuracy
+quantum electrodynamics
+shown to agree with experiment
+[6]
+complex number
+Born rule
+Max Born
+electron
+probability density function
+Schrödinger equation
+[7]
+uncertainty principle
+momentum
+[7]
+quantum interference
+double-slit experiment
+coherent light source
+laser
+[8]
+[2]
+interfere
+[8]
+photon
+[8]
+[9]
+[10]
+such experiments
+wave–particle duality
+electrons
+atoms
+molecules
+[2]
+quantum tunnelling
+potential barrier
+[11]
+radioactive decay
+nuclear fusion
+scanning tunnelling microscopy
+tunnel diode
+tunnel field-effect transistor
+[12]
+[13]
+quantum entanglement
+[14]
+quantum computing
+quantum key distribution
+superdense coding
+[15]
+faster than light
+no-communication theorem
+[15]
+hidden variables
+Bell's theorem
+Bell test
+[16]
+[17]
+linear algebra
+differential equations
+group theory
+[18]
+[19]
+edit
+Mathematical formulation of quantum mechanics
+separable
+Hilbert space
+projective space
+complex projective space
+square-integrable
+spin
+Hermitian
+self-adjoint
+operators
+eigenvector
+eigenstate
+eigenvalue
+quantum superposition
+Born rule
+probability density
+collapse
+probabilistic
+Bohr–Einstein debates
+thought experiments
+interpretations of quantum mechanics
+wave function collapse
+many-worlds interpretation
+entangled
+measurement in quantum mechanics
+[20]
+edit
+Hamiltonian
+total energy
+Planck constant
+classical Hamiltonian
+correspondence principle
+unitary
+deterministic
+[21]
+
+Probability densities
+Chladni's figures
+acoustic
+energy
+frequency
+angular momentum
+quantized
+resonant frequencies
+eigenstates of the Hamiltonian
+[7]
+atom
+atomic nucleus
+s orbital
+Fig. 1
+very few relatively simple model Hamiltonians
+quantum harmonic oscillator
+particle in a box
+dihydrogen cation
+hydrogen atom
+helium
+closed form
+[22]
+[23]
+[24]
+perturbation theory
+potential energy
+[7]
+[7]
+edit
+[25]
+[26]
+canonical commutation relation
+standard deviation
+[27]
+commutator
+Fourier transforms
+differentiation corresponds to multiplication in the dual space
+non-relativistic Schrödinger equation in position space
+[25]
+edit
+tensor product
+entangled
+[28]
+[29]
+reduced density matrices
+[28]
+[29]
+positive operator-valued measures
+[28]
+[30]
+quantum decoherence
+[31]
+edit
+transformation theory
+Paul Dirac
+matrix mechanics
+Werner Heisenberg
+Erwin Schrödinger
+[32]
+Feynman
+path integral formulation
+action principle
+[33]
+edit
+Noether's theorem
+[7]
+Emmy Noether
+Lagrangian
+differentiable
+symmetry
+conservation law
+edit
+edit
+Free particle
+
+wave packet
+plane waves
+[note 1]
+wave packet
+[34]
+edit
+
+Particle in a box
+[25]
+classic kinetic energy analogue
+Euler's formula
+finite potential well
+rectangular potential barrier
+quantum tunneling
+flash memory
+scanning tunneling microscopy
+edit
+Quantum harmonic oscillator
+
+harmonic oscillator
+spring
+classical mechanics
+wave
+real part
+imaginary part
+standing waves
+stationary states
+energy level
+[7]
+eigenstates
+Hermite polynomials
+bound states
+edit
+
+Mach–Zehnder interferometer
+delayed choice quantum eraser
+Elitzur–Vaidman bomb tester
+[35]
+[36]
+beam splitters
+phase shift
+[37]
+edit
+Applications of quantum mechanics
+classical methods
+[note 2]
+protons
+neutrons
+photons
+Solid-state physics
+materials science
+[38]
+quantum chemistry
+quantum optics
+quantum computing
+superconducting magnets
+light-emitting diodes
+optical amplifier
+transistor
+semiconductors
+microprocessor
+medical and research imaging
+magnetic resonance imaging
+electron microscopy
+[39]
+DNA
+edit
+Modern physics
+Schrödinger
+Einstein field equations
+Max Planck
+Albert Einstein
+Niels Bohr
+Max Born
+Werner Heisenberg
+Erwin Schrödinger
+Pascual Jordan
+Wolfgang Pauli
+Paul Dirac
+Ernest Rutherford
+Louis de Broglie
+Satyendra Nath Bose
+Topology
+Space
+Time
+Energy
+Matter
+Work
+Randomness
+Information
+Entropy
+Light
+Particle
+Wave
+Applied
+Experimental
+Theoretical
+Mathematical
+Philosophy of physics
+Quantum mechanics
+Quantum field theory
+Quantum information
+Quantum computation
+Electromagnetism
+Weak interaction
+Electroweak interaction
+Strong interaction
+Atomic
+Particle
+Nuclear
+Atomic, molecular, and optical
+Condensed matter
+Statistical
+Complex systems
+Non-linear dynamics
+Biophysics
+Neurophysics
+Plasma physics
+Special relativity
+General relativity
+Astrophysics
+Cosmology
+Theories of gravitation
+Quantum gravity
+Theory of everything
+Witten
+Röntgen
+Becquerel
+Lorentz
+Planck
+Curie
+Wien
+Skłodowska-Curie
+Sommerfeld
+Rutherford
+Soddy
+Onnes
+Einstein
+Wilczek
+Born
+Weyl
+Bohr
+Kramers
+Schrödinger
+de Broglie
+Laue
+Bose
+Compton
+Pauli
+Walton
+Fermi
+van der Waals
+Heisenberg
+Dyson
+Zeeman
+Moseley
+Hilbert
+Gödel
+Jordan
+Dirac
+Wigner
+Hawking
+P. W. Anderson
+Lemaître
+Thomson
+Poincaré
+Wheeler
+Penrose
+Millikan
+Nambu
+von Neumann
+Higgs
+Hahn
+Feynman
+Yang
+Lee
+Lenard
+Salam
+'t Hooft
+Veltman
+Bell
+Gell-Mann
+J. J. Thomson
+Raman
+Bragg
+Bardeen
+Shockley
+Chadwick
+Lawrence
+Zeilinger
+Goudsmit
+Uhlenbeck
+Modern physics
+v
+t
+e
+edit
+Hilbert space
+Hermitian operators
+correspondence principle
+classical mechanics
+quantum numbers
+[40]
+quantization
+[41]
+[42]
+non-relativistic
+quantum harmonic oscillator
+kinetic energy
+classical harmonic oscillator
+[7]
+chaotic systems
+quantum chaos
+[41]
+Quantum decoherence
+coherence
+quantum superpositions
+[7]
+absolute zero
+[note 3]
+molecules
+electric charges
+[43]
+edit
+special relativity
+Klein–Gordon equation
+Dirac equation
+quantum electrodynamics
+electromagnetic interaction
+general relativity
+[44]
+[45]
+charged
+electromagnetic field
+hydrogen atom
+electric field
+Coulomb potential
+[7]
+Stern–Gerlach experiment
+[41]
+charged particles
+Quantum field
+strong nuclear force
+weak nuclear force
+quantum chromodynamics
+quarks
+gluons
+electroweak theory
+Abdus Salam
+Sheldon Glashow
+Steven Weinberg
+[46]
+edit
+empirical evidence
+quantum gravity
+physical cosmology
+Theory of Everything
+[47]
+string theory
+point-like particles
+particle physics
+one-dimensional
+strings
+mass
+charge
+vibrational
+graviton
+[48]
+[49]
+loop quantum gravity
+quantum spacetime
+spin networks
+spin foam
+Planck length
+[50]
+edit
+Interpretations of quantum mechanics
+superposition
+wave function collapse
+(more unsolved problems in physics)
+philosophical
+interpretations
+wavefunction collapse
+measurement problem
+quantum nonlocality
+Richard Feynman
+[51]
+Steven Weinberg
+[52]
+Niels Bohr
+Copenhagen interpretation
+[53]
+[54]
+complementary
+[55]
+[56]
+[57]
+[2]
+[58]
+[59]
+Albert Einstein
+quantum theory
+determinism
+locality
+Bohr–Einstein debates
+action at a distance
+thermodynamics
+statistical mechanics
+Boris Podolsky
+Nathan Rosen
+thought experiment
+Einstein–Podolsky–Rosen paradox
+[note 4]
+John Bell
+Bell inequalities
+[64]
+several experiments
+[16]
+[17]
+Bohmian mechanics
+[65]
+many-worlds interpretation
+[66]
+[67]
+[68]
+[69]
+[70]
+[71]
+Relational quantum mechanics
+[72]
+QBism
+[73]
+edit
+History of quantum mechanics
+Atomic theory
+
+Max Planck
+Robert Hooke
+Christiaan Huygens
+Leonhard Euler
+[74]
+polymath
+Thomas Young
+double-slit experiment
+[75]
+wave theory of light
+chemical
+John Dalton
+Amedeo Avogadro
+atomic theory
+James Clerk Maxwell
+Ludwig Boltzmann
+kinetic theory of gases
+[76]
+Greek philosophy
+Greek
+Michael Faraday
+Julius Plücker
+Johann Wilhelm Hittorf
+Eugen Goldstein
+cathode rays
+J. J. Thomson
+[77]
+[78]
+black-body radiation
+Gustav Kirchhoff
+[79]
+Latin
+[80]
+frequency
+Planck's constant
+[81]
+[82]
+realistically
+photoelectric effect
+model of the hydrogen atom
+spectral lines
+[83]
+electromagnetic wave
+[84]
+[85]
+[86]
+
+Solvay Conference
+Brussels
+old quantum theory
+heuristic
+[87]
+[88]
+semi-classical approximation
+[89]
+[90]
+Peter Debye
+specific heat
+Hendrika Johanna van Leeuwen
+proof
+diamagnetism
+Arnold Sommerfeld
+[87]
+[91]
+Louis de Broglie
+Pascual Jordan
+[92]
+[93]
+matrix mechanics
+wave mechanics
+[94]
+Solvay Conference
+[95]
+David Hilbert
+John von Neumann
+[96]
+measurement
+philosophical speculation about the 'observer'
+quantum electronics
+quantum optics
+quantum information science
+periodic table of elements
+atoms
+chemical bonding
+semiconductors
+macroscopic
+superconductors
+[97]
+superfluids
+[98]
+edit
+Bra–ket notation
+Einstein's thought experiments
+List of textbooks on classical and quantum mechanics
+Macroscopic quantum phenomena
+Phase-space formulation
+Regularization (physics)
+Two-state quantum system
+edit
+^
+Dirac delta distribution
+[25]
+^
+the Feynman Lectures on Physics
+transistors
+integrated circuits
+lasers
+^
+macroscopic quantum phenomena
+Bose–Einstein condensate
+Quantum machine
+^
+[60]
+[61]
+[62]
+[63]
+edit
+^
+Born, M.
+Bibcode
+1926ZPhy...37..863B
+doi
+10.1007/BF01397477
+ISSN
+1434-6001
+S2CID
+119896026
+a
+b
+c
+d
+The Feynman Lectures on Physics
+ISBN
+978-0-201-50064-6
+^
+Bibcode
+2014AmJPh..82..896J
+doi
+10.1119/1.4878358
+^
+Bibcode
+2019NatPh..15.1242F
+doi
+10.1038/s41567-019-0663-9
+S2CID
+203638258
+^
+arXiv
+1501.04899
+Bibcode
+2015RPPh...78b3901B
+doi
+10.1088/0034-4885/78/2/023901
+PMID
+25582917
+S2CID
+18463042
+^
+arXiv
+2209.13084
+Bibcode
+2023PhRvL.130g1801F
+doi
+10.1103/PhysRevLett.130.071801
+PMID
+36867820
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+Zwiebach, Barton
+ISBN
+978-0-262-04613-8
+a
+b
+c
+Quantum Physics for Poets
+ISBN
+978-1-61614-281-0
+^
+Introduction to Quantum Mechanics: Schrödinger Equation and Path Integral
+ISBN
+978-981-256-691-1
+^
+Niels Bohr and Complementarity: An Introduction
+ISBN
+978-1-4614-4517-3
+^
+Griffiths, David J.
+Introduction to Quantum Mechanics
+ISBN
+0-13-124405-1
+^
+"Quantum tunnelling to the origin and evolution of life"
+doi
+10.2174/13852728113179990083
+PMC
+3768233
+PMID
+24039543
+^
+"Developing more energy-efficient transistors through quantum tunneling"
+^
+Bub, Jeffrey
+"Quantum entanglement"
+Stanford Encyclopedia of Philosophy
+a
+b
+Caves, Carlton M.
+The Optical Society
+arXiv
+1302.1864
+Bibcode
+2013arXiv1302.1864C
+ISBN
+978-1-943580-04-0
+a
+b
+Wiseman, Howard
+"Death by experiment for local realism"
+Nature
+doi
+10.1038/nature15631
+ISSN
+0028-0836
+PMID
+26503054
+a
+b
+Wolchover, Natalie
+"Experiment Reaffirms Quantum Weirdness"
+Quanta Magazine
+^
+Baez, John C.
+"How to Learn Math and Physics"
+^
+Sagan, Carl
+The Demon-Haunted World: Science as a Candle in the Dark
+ISBN
+0-345-40946-9
+^
+"8 Measurement"
+ISBN
+978-0-7637-2470-2
+the original
+^
+Dreams Of A Final Theory: The Search for The Fundamental Laws of Nature
+82
+ISBN
+978-1-4070-6396-6
+^
+"Exact solutions of the Schrödinger equation for some quantum-mechanical many-body systems"
+Bibcode
+1993PhRvA..47...71Z
+doi
+10.1103/PhysRevA.47.71
+ISSN
+1050-2947
+PMID
+9908895
+^
+"Comparing many-body approaches against the helium atom exact solution"
+arXiv
+1801.09977
+Bibcode
+2019ScPP....6...40L
+doi
+10.21468/SciPostPhys.6.4.040
+ISSN
+2542-4653
+^
+doi
+10.1007/978-3-030-73893-8_12
+ISBN
+978-3-030-73892-1
+a
+b
+c
+d
+Cohen-Tannoudji, Claude
+ISBN
+0-471-16433-X
+^
+Landau, L.D.
+Lifschitz, E.M.
+Quantum Mechanics: Non-Relativistic Theory
+Pergamon Press
+ISBN
+978-0-08-020940-1
+OCLC
+2284121
+^
+Bibcode
+1970RvMP...42..358B
+doi
+10.1103/RevModPhys.42.358
+S2CID
+120024263
+Measuring the Quantum State of Light
+ISBN
+0-521-49730-2
+a
+b
+c
+Nielsen, Michael A.
+Chuang, Isaac L.
+Quantum Computation and Quantum Information
+ISBN
+978-1-107-00217-3
+OCLC
+844974180
+a
+b
+Rieffel, Eleanor G.
+Quantum Computing: A Gentle Introduction
+ISBN
+978-0-262-01506-6
+^
+arXiv
+1106.1445
+doi
+10.1017/9781316809976.001
+ISBN
+978-1-107-17616-4
+OCLC
+973404322
+S2CID
+2515538
+^
+arXiv
+1911.06282
+Bibcode
+2019PhR...831....1S
+doi
+10.1016/j.physrep.2019.10.001
+S2CID
+208006050
+^
+Rechenberg, Helmut
+"Erwin Schrödinger and the creation of wave mechanics"
+Acta Physica Polonica B
+^
+ISBN
+978-0-486-47722-0
+^
+"The Schrödinger Equation and Stationary States"
+36
+ISBN
+978-0-07-096510-2
+^
+Physical Review A
+arXiv
+quant-ph/9811078
+Bibcode
+1999PhRvA..59.1615P
+doi
+10.1103/PhysRevA.59.1615
+S2CID
+13963928
+^
+Physical Review B
+arXiv
+1005.3976
+Bibcode
+2010PhRvB..82o5303H
+doi
+10.1103/PhysRevB.82.155303
+S2CID
+119261326
+^
+Vedral, Vlatko
+ISBN
+978-0-19-921570-6
+OCLC
+442351498
+^
+"Essay: Fifty Years of Condensed Matter Physics"
+Bibcode
+2008PhRvL.101y0001C
+doi
+10.1103/PhysRevLett.101.250001
+PMID
+19113681
+^
+"What Is Quantum Mechanics Good for?"
+^
+ISBN
+978-0-7167-7550-8
+a
+b
+c
+Peres, Asher
+Quantum Theory: Concepts and Methods
+ISBN
+0-7923-2549-4
+^
+Baez, John C.
+"The Math That Takes Newton Into the Quantum World"
+Nautilus Quarterly
+^
+"Atomic Properties"
+^
+The Nature of Space and Time
+ISBN
+978-1-4008-3474-7
+^
+Physical Review Letters
+arXiv
+1205.5368
+Bibcode
+2012PhRvL.109k1807A
+doi
+10.1103/PhysRevLett.109.111807
+PMID
+23005618
+S2CID
+14712017
+^
+"The Nobel Prize in Physics 1979"
+^
+Overbye, Dennis
+"Black Holes May Hide a Mind-Bending Secret About Our Universe – Take gravity, add quantum mechanics, stir. What do you get? Just maybe, a holographic cosmos"
+The New York Times
+^
+Becker, Melanie
+ISBN
+978-0-521-86069-7
+^
+Zwiebach, Barton
+ISBN
+978-0-521-88032-9
+^
+Covariant Loop Quantum Gravity: An Elementary Introduction to Quantum Gravity and Spinfoam Theory
+ISBN
+978-1-316-14811-2
+^
+Feynman, Richard
+The Character of Physical Law
+ISBN
+0-262-56003-8
+^
+arXiv
+1109.6462
+Bibcode
+2012PhRvA..85f2116W
+doi
+10.1103/PhysRevA.85.062116
+S2CID
+119273840
+^
+"Who Invented the 'Copenhagen Interpretation'? A Study in Mythology"
+doi
+10.1086/425941
+ISSN
+0031-8248
+S2CID
+9454552
+^
+"Constructing the Myth of the Copenhagen Interpretation"
+doi
+10.1162/posc.2009.17.1.26
+ISSN
+1063-6145
+S2CID
+57559199
+^
+"The Quantum Postulate and the Recent Development of Atomic Theory"
+Bibcode
+1928Natur.121..580B
+doi
+10.1038/121580a0
+^
+ISBN
+978-0-04-530016-7
+OCLC
+743037461
+^
+doi
+10.1007/BF01491987
+JSTOR
+986572
+S2CID
+22433857
+^
+"Delayed-choice gedanken experiments and their realizations"
+arXiv
+1407.2930
+Bibcode
+2016RvMP...88a5005M
+doi
+10.1103/RevModPhys.88.015005
+ISSN
+0034-6861
+S2CID
+34901303
+^
+arXiv
+1301.1069
+Bibcode
+2013SHPMP..44..222S
+doi
+10.1016/j.shpsb.2013.04.004
+S2CID
+55537196
+^
+Spekkens, Robert W.
+Foundations of Physics
+arXiv
+0706.2661
+Bibcode
+2010FoPh...40..125H
+doi
+10.1007/s10701-009-9347-0
+S2CID
+32755624
+^
+Bibcode
+1985SHPSA..16..171H
+doi
+10.1016/0039-3681(85)90001-9
+^
+"An Einstein manuscript on the EPR paradox for spin observables"
+Bibcode
+2007SHPMP..38..879S
+CiteSeerX
+10.1.1.571.6089
+doi
+10.1016/j.shpsb.2007.03.002
+ISSN
+1355-2198
+^
+^
+Bell, J. S.
+"On the Einstein Podolsky Rosen paradox"
+Physics Physique Fizika
+doi
+10.1103/PhysicsPhysiqueFizika.1.195
+^
+"Bohmian Mechanics"
+^
+"Everett's Relative-State Formulation of Quantum Mechanics"
+Stanford Encyclopedia of Philosophy
+^
+Everett, Hugh
+Wheeler, J. A.
+DeWitt, B. S.
+Cooper, L. N.
+DeWitt, Bryce
+Princeton University Press
+ISBN
+0-691-08131-X
+^
+arXiv
+quant-ph/0303050
+Bibcode
+2003SHPMP..34..415W
+doi
+10.1016/S1355-2198(03)00036-4
+S2CID
+1921913
+^
+Bibcode
+1973FoPh....3..229B
+doi
+10.1007/BF00708440
+S2CID
+121747282
+^
+"The Born rule and its interpretation"
+ISBN
+978-3-540-70622-9
+^
+Kent, Adrian
+arXiv
+0905.0624
+Bibcode
+2009arXiv0905.0624K
+^
+Van Fraassen, Bas C.
+"Rovelli's World"
+Foundations of Physics
+Bibcode
+2010FoPh...40..390V
+doi
+10.1007/s10701-009-9326-5
+ISSN
+0015-9018
+S2CID
+17217776
+^
+"Quantum-Bayesian and Pragmatist Views of Quantum Theory"
+Stanford Encyclopedia of Philosophy
+^
+Born, Max
+Wolf, Emil
+Principles of Optics
+ISBN
+0-521-64222-1
+OCLC
+1151058062
+^
+"Bringing one of the great moments of science to the classroom"
+The Physics Teacher
+Bibcode
+1986PhTea..24..217S
+doi
+10.1119/1.2341987
+ISSN
+0031-921X
+^
+The Feynman Lectures on Physics
+ISBN
+978-0-201-50064-6
+^
+ISBN
+978-0-08-057733-3
+^
+Flash of the Cathode Rays: A History of J J Thomson's Electron
+ISBN
+978-0-7503-0453-5
+^
+Mehra, J.
+ISBN
+978-0-387-90642-3
+^
+"Quantum – Definition and More"
+Archived
+^
+Kuhn, T. S.
+ISBN
+978-0-19-502383-1
+^
+Kragh, Helge
+"Max Planck: the reluctant revolutionary"
+Physics World
+^
+Stachel, John
+doi
+10.1007/978-1-4020-9107-0_5
+ISBN
+978-1-4020-9106-3
+^
+"Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt"
+Annalen der Physik
+Bibcode
+1905AnP...322..132E
+doi
+10.1002/andp.19053220607
+Stachel, John
+^
+Einstein, Albert
+Physikalische Zeitschrift
+Bibcode
+1917PhyZ...18..121E
+doi
+10.1016/b978-0-08-012102-4.50018-8
+ISBN
+978-0-08-012102-4
+^
+Ball, Philip
+"A century ago Einstein sparked the notion of the laser"
+Physics World
+a
+b
+The Old Quantum Theory
+ISBN
+978-0-08-012101-7
+LCCN
+66-29628
+^
+"Bohr's Correspondence Principle"
+Zalta, Edward N.
+Stanford Encyclopedia of Philosophy
+^
+"Semi-classical approximation"
+^
+Sakurai, J. J.
+Modern Quantum Mechanics
+ISBN
+978-1-292-02410-3
+OCLC
+929609283
+^
+Aharoni, Amikam
+Introduction to the Theory of Ferromagnetism
+Clarendon Press
+6–7
+ISBN
+0-19-851791-2
+^
+^
+^
+Bernstein, Jeremy
+"Max Born and the quantum theory"
+American Journal of Physics
+Bibcode
+2005AmJPh..73..999B
+doi
+10.1119/1.2060717
+ISSN
+0002-9505
+^
+Pais, Abraham
+A Tale of Two Continents: A Physicist's Life in a Turbulent World
+ISBN
+0-691-01243-1
+^
+"Von Neumann's contributions to quantum mechanics"
+Bulletin of the American Mathematical Society
+doi
+10.1090/s0002-9904-1958-10206-2
+Archived
+^
+Feynman, Richard
+"The Feynman Lectures on Physics Vol. III Ch. 21: The Schrödinger Equation in a Classical Context: A Seminar on Superconductivity, 21-4"
+California Institute of Technology
+Archived
+^
+"Berkeley Experiments on Superfluid Macroscopic Quantum Effects"
+the original
+edit
+Chester, Marvin
+ISBN
+0-486-42878-8
+Cox, Brian
+Forshaw, Jeff
+The Quantum Universe: Everything That Can Happen Does Happen
+ISBN
+978-1-84614-432-5
+Richard Feynman
+QED: The Strange Theory of Light and Matter
+ISBN
+0-691-08388-6
+quantum field theory
+Ghirardi, GianCarlo
+algebra
+trigonometry
+bra–ket notation
+N. David Mermin
+Victor Stenger
+cosmological
+philosophical
+Bernstein, Jeremy
+Quantum Leaps
+ISBN
+978-0-674-03541-6
+Bohm, David
+Quantum Theory
+ISBN
+978-0-486-65969-5
+Binney, James
+ISBN
+978-0-19-968857-9
+Resnick, Robert
+Quantum Physics of Atoms, Molecules, Solids, Nuclei, and Particles
+ISBN
+978-0-471-87373-0
+Bryce DeWitt
+ISBN
+0-691-08131-X
+Everett, Hugh
+Bibcode
+1957RvMP...29..454E
+doi
+10.1103/RevModPhys.29.454
+S2CID
+17178479
+Feynman, Richard P.
+Leighton, Robert B.
+The Feynman Lectures on Physics
+ISBN
+978-0-7382-0008-8
+D. Greenberger
+K. Hentschel
+Griffiths, David J.
+Introduction to Quantum Mechanics
+ISBN
+978-0-13-111892-8
+OCLC
+40251748
+Max Jammer
+Hagen Kleinert
+Draft of 4th edition.
+Archived
+Wayback Machine
+L.D. Landau
+E.M. Lifshitz
+Pergamon Press
+ISBN
+978-0-08-020940-1
+Online copy
+Liboff, Richard L.
+ISBN
+978-0-8053-8714-8
+ISBN
+0-08-203204-1
+George Mackey
+ISBN
+0-486-43517-2
+Merzbacher, Eugen
+ISBN
+978-0-471-88702-7
+Albert Messiah
+online
+Omnès, Roland
+Understanding Quantum Mechanics
+ISBN
+978-0-691-00435-8
+OCLC
+39849482
+Scerri, Eric R.
+Periodic Table
+ISBN
+0-19-530573-6
+Shankar, R.
+ISBN
+978-0-306-44790-7
+Stone, A. Douglas
+Einstein and the Quantum
+ISBN
+978-0-691-13968-5
+Transnational College of Lex
+ISBN
+978-0-9643504-1-0
+OCLC
+34661512
+Veltman, Martinus J.G.
+This Quantum World
+edit
+sister projects
+Definitions
+Media
+News
+Quotations
+Texts
+Textbooks
+Resources
+A history of quantum mechanics.
+Introduction to Quantum Theory at Quantiki.
+Quantum Physics Made Relatively Simple
+Hans Bethe
+Quantum Cook Book
+PHYS 201: Fundamentals of Physics II
+Ramamurti Shankar
+Modern Physics: With waves, thermodynamics, and optics
+MIT OpenCourseWare
+Chemistry
+Physics
+8.04
+8.05
+8.06
+⁠5+1/2⁠ Examples in Quantum Mechanics
+Imperial College Quantum Mechanics Course.
+"Quantum Mechanics"
+Zalta, Edward N.
+Stanford Encyclopedia of Philosophy
+"Measurement in Quantum Theory"
+Zalta, Edward N.
+Stanford Encyclopedia of Philosophy
+v
+t
+e
+Quantum mechanics
+Introduction
+History
+Timeline
+Classical mechanics
+Old quantum theory
+Glossary
+Born rule
+Bra–ket notation
+ Complementarity
+Density matrix
+Energy level
+Ground state
+Excited state
+Degenerate levels
+Zero-point energy
+Entanglement
+Hamiltonian
+Interference
+Decoherence
+Measurement
+Nonlocality
+Quantum state
+Superposition
+Tunnelling
+Scattering theory
+Symmetry in quantum mechanics
+Uncertainty
+Wave function
+Collapse
+Wave–particle duality
+Formulations
+Heisenberg
+Interaction
+Matrix mechanics
+Schrödinger
+Path integral formulation
+Phase space
+Dirac
+Klein–Gordon
+Pauli
+Rydberg
+Schrödinger
+Interpretations
+Bayesian
+Consistent histories
+Copenhagen
+de Broglie–Bohm
+Ensemble
+Hidden-variable
+Local
+Superdeterminism
+Many-worlds
+Objective collapse
+Quantum logic
+Relational
+Transactional
+Von Neumann–Wigner
+Bell test
+Davisson–Germer
+Delayed-choice quantum eraser
+Double-slit
+Franck–Hertz
+Mach–Zehnder interferometer
+Elitzur–Vaidman
+Popper
+Quantum eraser
+Stern–Gerlach
+Wheeler's delayed choice
+Science
+Quantum biology
+Quantum chemistry
+Quantum chaos
+Quantum cosmology
+Quantum differential calculus
+Quantum dynamics
+Quantum geometry
+Quantum measurement problem
+Quantum mind
+Quantum stochastic calculus
+Quantum spacetime
+Technology
+Quantum algorithms
+Quantum amplifier
+Quantum bus
+Quantum cellular automata
+Quantum finite automata
+Quantum channel
+Quantum circuit
+Quantum complexity theory
+Quantum computing
+Timeline
+Quantum cryptography
+Quantum electronics
+Quantum error correction
+Quantum imaging
+Quantum image processing
+Quantum information
+Quantum key distribution
+Quantum logic
+Quantum logic gates
+Quantum machine
+Quantum machine learning
+Quantum metamaterial
+Quantum metrology
+Quantum network
+Quantum neural network
+Quantum optics
+Quantum programming
+Quantum sensing
+Quantum simulator
+Quantum teleportation
+Quantum fluctuation
+Casimir effect
+Quantum statistical mechanics
+Quantum field theory
+History
+Quantum gravity
+Relativistic quantum mechanics
+Schrödinger's cat
+in popular culture
+Wigner's friend
+EPR paradox
+Quantum mysticism
+Category
+v
+t
+e
+branches of physics
+Pure
+Applied
+Engineering
+Experimental
+Theoretical
+Computational
+Classical
+Classical mechanics
+Newtonian
+Analytical
+Celestial
+Continuum
+Acoustics
+Classical electromagnetism
+Classical optics
+Ray
+Wave
+Thermodynamics
+Statistical
+Non-equilibrium
+Modern
+Relativistic mechanics
+Special
+General
+Nuclear physics
+Quantum mechanics
+Particle physics
+Atomic, molecular, and optical physics
+Atomic
+Molecular
+Modern optics
+Condensed matter physics
+Interdisciplinary
+Astrophysics
+Atmospheric physics
+Biophysics
+Chemical physics
+Geophysics
+Materials science
+Mathematical physics
+Medical physics
+Ocean physics
+Quantum information science
+History of physics
+Nobel Prize in Physics
+Philosophy of physics
+Physics education
+Timeline of physics discoveries
+Portals
+Astronomy
+Chemistry
+
+Electronics
+
+Energy
+History of science
+
+Mathematics
+
+Physics
+
+Science
+
+Stars
+Authority control databases
+
+FAST
+Germany
+United States
+France
+BnF data
+Japan
+Czech Republic
+Spain
+Israel
+IdRef
